@@ -1,4 +1,20 @@
-# Native Nations Visuals
+# ArcGIS Hub Custom UI Asset Library
+
+A collection of responsive web components, custom SVG graphics, and layout elements optimized for iframe integration within ArcGIS Hub sites.
+
+## Component Catalog
+
+| Component Name | Visual Preview | Live Iframe Link (for ArcGIS Hub) |
+| :--- | :--- | :--- |
+| **Native Nations Feather Collage** | ![Feather Preview](components/feather-collage/preview.png) | `https://tessa-vu.github.io/native-nations-visuals/` |
+
+## How to Use in ArcGIS Hub
+1. Choose a component from the table above and copy its **Live Iframe Link**.
+2. Open your ArcGIS Hub layout editor.
+3. Drag an **Iframe card** onto your page.
+4. Paste the link into the URL configuration slot.
+
+## Sources
 
 [Jake Tiger, citizen of the Seminole Nation of Oklahoma and the band chief of the Thomas Palmer Band](https://npr.brightspotcdn.com/dims4/default/b85ba5c/2147483647/strip/true/crop/683x1024+0+0/resize/1760x2638!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2F92%2F81ecc4ac4a9e975968f8a778bce6%2Fimagejpeg-0.JPG), from KOSU article [*Seminole Nation of Oklahoma officials stand in solidarity with Florida tribal nations against 'Alligator Alcatraz'* by Sarah Liese (Twilla)](https://www.kosu.org/race-culture/2025-06-30/seminole-nation-of-oklahoma-officials-stand-in-solidarity-with-florida-tribal-nations-against-alligator-alcatraz).
 
