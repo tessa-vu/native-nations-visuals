@@ -7,6 +7,7 @@ A collection of responsive web components, custom SVG graphics, and layout eleme
 | Component Name | Visual Preview | Live Iframe Link (for ArcGIS Hub) |
 | :--- | :--- | :--- |
 | **Native Nations Feather Collage** | ![Feather Preview](components/feather-collage/preview.png) | `https://tessa-vu.github.io/native-nations-visuals/components/feather-collage/index.html` |
+| **Round Ornament Project Card** | ![](components/project-cards/preview.png) | `https://tessa-vu.github.io/native-nations-visuals/components/project-cards/preview.png` |
 
 ## How to Use in ArcGIS Hub
 1. Choose a component from the table above and copy its **Live Iframe Link**.
